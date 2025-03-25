@@ -1,0 +1,5 @@
+Need 4 databases which will be generated from HW4.
+1. store1.db
+2. store2.db
+3. store3.db
+4. store4.db
